@@ -1,8 +1,8 @@
-package de.peedeex21
+package de.peedeex21.twittertraffic
 
 import java.util.Date
 
-import de.peedeex21.TwitterTrafficJob.AccidentTweet
+import de.peedeex21.twittertraffic.TwitterTrafficJob.AccidentTweet
 import org.apache.flink.api.scala._
 import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment
 import org.apache.flink.streaming.connectors.json.JSONParseFlatMap
