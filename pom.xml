@@ -64,11 +64,11 @@ under the License.
             <artifactId>flink-connector-twitter</artifactId>
             <version>${flink.version}</version>
         </dependency>
-        <!--dependency>
+        <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <version>4.2.6</version>
-        </dependency-->
+        </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play-json_2.10</artifactId>
